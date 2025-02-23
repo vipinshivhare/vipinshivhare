@@ -1,11 +1,5 @@
 ## Hi there 👋
-
-<!--
-**vipinshivhare/vipinshivhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# 💫 About Me:
+🔭 I’m currently working on ...# 💫 About Me:
 👋 Hey there! I'm Vipin Shivhare<br>🚀 Full Stack Web Developer | MERN Stack Enthusiast<br>💻 Passionate about building scalable, interactive, and user-friendly web applications.<br><br>🛠️ Tech Stack & Skills<br>Frontend: React.js, HTML, CSS, JavaScript<br>Backend: Node.js, Express.js, MongoDB, Firebase<br>Version Control: Git & GitHub<br>Other Skills: Problem-solving, Task Management<br><br>📌 What I Do<br>✅ Design and develop modern web applications<br>✅ Work with React.js, Node.js & databases for full-stack projects<br>✅ Manage code with Git & GitHub for seamless collaboration<br>✅ Continuously learning & exploring new technologies<br><br>📂 Check out my projects on GitHub!<br>🌐 Portfolio: portfolio-vipin-shivhare.netlify.app<br><br>🚀 Let’s connect & build something awesome!
 
 
@@ -28,12 +22,3 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=vipinshivhare&icon=6&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
