@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋 Hey there! I'm Vipin Shivhare<br>🚀 I am an aspiring Java Developer with a strong foundation in Core Java, Advanced Java, and Spring Boot. I have hands‑on experience in building and deploying RESTful APIs, CRUD operations, and database‑driven applications using Spring Data JPA, Hibernate, and PostgreSQL/MySQL.<br>
+👋 Hey there! I'm Vipin Shivhare<br>🚀 I am an aspiring Java Developer with a strong foundation in Core Java, Advanced Java, and Spring Boot. I have hands‑on experience in building and deploying RESTful APIs, CRUD operations, and database‑driven applications using Spring Data JPA, Hibernate, and PostgreSQL/MySQL.<br><br>
 I have worked on projects that include image upload handling (Cloudinary integration), secure authentication, and deployment on cloud platforms like Render. I focus on writing clean, maintainable code and following best practices in backend development.<br><br>
 💻 Key Skills:<br>
 ✅ Core Java, OOPs, Collections<br>
