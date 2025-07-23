@@ -1,6 +1,14 @@
 ## Hi there 👋
 
-👋 Hey there! I'm Vipin Shivhare<br>🚀 Full Stack Web Developer | MERN Stack Enthusiast<br>💻 Passionate about building scalable, interactive, and user-friendly web applications.<br><br>🛠️ Tech Stack & Skills<br>Frontend: React.js, HTML, CSS, JavaScript<br>Backend: Node.js, Express.js, MongoDB, Firebase<br>Version Control: Git & GitHub<br>Other Skills: Problem-solving, Task Management<br><br>📌 What I Do<br>✅ Design and develop modern web applications<br>✅ Work with React.js, Node.js & databases for full-stack projects<br>✅ Manage code with Git & GitHub for seamless collaboration<br>✅ Continuously learning & exploring new technologies<br><br>📂 Check out my projects on GitHub!<br>🌐<br><br>🚀 Let’s connect & build something awesome!
+👋 Hey there! I'm Vipin Shivhare<br>🚀 I am an aspiring Java Developer with a strong foundation in Core Java, Advanced Java, and Spring Boot. I have hands‑on experience in building and deploying RESTful APIs, CRUD operations, and database‑driven applications using Spring Data JPA, Hibernate, and PostgreSQL/MySQL.
+I have worked on projects that include image upload handling (Cloudinary integration), secure authentication, and deployment on cloud platforms like Render. I focus on writing clean, maintainable code and following best practices in backend development.
+💻 Key Skills:
+✅ Core Java, OOPs, Collections
+✅ Advanced Java (JDBC, Servlets, JSP)
+✅ Spring Boot, Spring Data JPA, Hibernate
+✅ REST APIs, MySQL/PostgreSQL
+✅ Cloudinary integration & deployment on Render
+I am eager to grow as a Java Backend Developer, contribute to impactful projects, and continuously enhance my skills in the Java ecosystem.<br><br>📂 Check out my projects on GitHub!<br>🌐<br><br>🚀 Let’s connect & build something awesome!
 
 
 ## 🌐 Socials:
