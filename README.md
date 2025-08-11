@@ -8,7 +8,7 @@ I have worked on projects that include image upload handling (Cloudinary integra
 ✅ Spring Boot, Spring Data JPA, Hibernate<br>
 ✅ REST APIs, MySQL/PostgreSQL<br>
 ✅ Cloudinary integration & deployment on Render<br>
-I am eager to grow as a Java Backend Developer, contribute to impactful projects, and continuously enhance my skills in the Java ecosystem.<br><br>📂 Check out my projects on GitHub!<br>🌐<br><br>🚀 Let’s connect & build something awesome!
+I am eager to grow as a Java Backend Developer, contribute to impactful projects, and continuously enhance my skills in the Java ecosystem.<br><br>📂 Check out my projects!<br>🌐<br><br>🚀 Let’s connect & build something awesome!
 
 
 ## 🌐 Socials:
